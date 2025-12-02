@@ -1,0 +1,58 @@
+[{
+    "nome": "Big Brother Brasil 2025",
+    "emissora": {
+      "nome": "Globo",
+      "pontos_audiencia": 85
+    },
+    "participantes": [
+      {"nome": "Ana Costa", "idade": 25, "premios": [{"descricao": "Tablet", "valor": 2000, "data_recebimento": "2025-01-10"}]},
+      {"nome": "Bruno Silva", "idade": 30, "premios": []},
+      {"nome": "Carla Mendes", "idade": 28, "premios": [{"descricao": "Smart TV", "valor": 3500, "data_recebimento": "2025-02-05"}]},
+      {"nome": "Daniel Souza", "idade": 32, "premios": []},
+      {"nome": "Elena Rocha", "idade": 27, "premios": [{"descricao": "Notebook", "valor": 4000, "data_recebimento": "2025-02-20"}]},
+      {"nome": "Felipe Lima", "idade": 29, "premios": []},
+      {"nome": "Gabriela Santos", "idade": 26, "premios": [{"descricao": "Viagem", "valor": 8000, "data_recebimento": "2025-03-01"}]},
+      {"nome": "Hugo Alves", "idade": 31, "premios": []},
+      {"nome": "Isabela Dias", "idade": 24, "premios": []},
+      {"nome": "João Oliveira", "idade": 33, "premios": [{"descricao": "Carro", "valor": 80000, "data_recebimento": "2025-03-15"}]}
+    ]
+  },
+  {
+    "nome": "MasterChef Brasil",
+    "emissora": {
+      "nome": "Band",
+      "pontos_audiencia": 72
+    },
+    "participantes": [
+      {"nome": "Lucas Martins", "idade": 35, "premios": [{"descricao": "Kit Cozinha", "valor": 5000, "data_recebimento": "2025-01-20"}]},
+      {"nome": "Marina Castro", "idade": 29, "premios": []},
+      {"nome": "Nicolas Ferreira", "idade": 27, "premios": []},
+      {"nome": "Olivia Pinto", "idade": 31, "premios": [{"descricao": "Curso Gastronomia", "valor": 12000, "data_recebimento": "2025-02-10"}]},
+      {"nome": "Paulo Gomes", "idade": 28, "premios": []},
+      {"nome": "Rafaela Nunes", "idade": 30, "premios": []},
+      {"nome": "Sergio Barros", "idade": 34, "premios": [{"descricao": "Prêmio Final", "valor": 200000, "data_recebimento": "2025-03-20"}]},
+      {"nome": "Tatiana Cruz", "idade": 26, "premios": []},
+      {"nome": "Vitor Ribeiro", "idade": 32, "premios": []},
+      {"nome": "Wesley Moura", "idade": 29, "premios": [{"descricao": "Estágio", "valor": 15000, "data_recebimento": "2025-02-25"}]}
+    ]
+  },
+  {
+    "nome": "A Fazenda 2025",
+    "emissora": {
+      "nome": "Record",
+      "pontos_audiencia": 68
+    },
+    "participantes": [
+      {"nome": "Amanda Reis", "idade": 26, "premios": []},
+      {"nome": "Bernardo Lopes", "idade": 33, "premios": [{"descricao": "Moto", "valor": 25000, "data_recebimento": "2025-01-30"}]},
+      {"nome": "Camila Teixeira", "idade": 28, "premios": []},
+      {"nome": "Diego Cardoso", "idade": 30, "premios": []},
+      {"nome": "Eduarda Morais", "idade": 25, "premios": [{"descricao": "Jet Ski", "valor": 35000, "data_recebimento": "2025-02-15"}]},
+      {"nome": "Fabio Araujo", "idade": 31, "premios": []},
+      {"nome": "Giovana Silva", "idade": 27, "premios": []},
+      {"nome": "Henrique Sousa", "idade": 29, "premios": [{"descricao": "Prêmio Fazendeiro", "valor": 150000, "data_recebimento": "2025-03-10"}]},
+      {"nome": "Iris Monteiro", "idade": 24, "premios": []},
+      {"nome": "Jorge Cavalcanti", "idade": 32, "premios": [{"descricao": "Carro", "valor": 90000, "data_recebimento": "2025-03-18"}]}
+    ]
+  }
+]
